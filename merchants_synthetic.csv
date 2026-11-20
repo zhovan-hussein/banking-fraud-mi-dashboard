@@ -1,0 +1,21 @@
+merchant_id,merchant_name,category,risk_tier
+M001,E-Commerce Merchant 01,E-Commerce Retail,High
+M002,Travel Merchant 02,Travel & Airlines,High
+M003,Digital Merchant 03,Digital Subscriptions,Medium
+M004,Food Merchant 04,Food Delivery,Medium
+M005,Electronics Merchant 05,Electronics & Gaming,High
+M006,Supermarkets Merchant 06,Supermarkets,Low
+M007,Fuel Merchant 07,Fuel & Transport,Low
+M008,Crypto Merchant 08,Crypto / Fintech Wallet,High
+M009,Hospitality Merchant 09,Hospitality & Hotels,Medium
+M010,Utilities Merchant 10,Utilities & Telecoms,Low
+M011,E-Commerce Merchant 11,E-Commerce Retail,High
+M012,Travel Merchant 12,Travel & Airlines,High
+M013,Digital Merchant 13,Digital Subscriptions,Medium
+M014,Food Merchant 14,Food Delivery,Medium
+M015,Electronics Merchant 15,Electronics & Gaming,High
+M016,Supermarkets Merchant 16,Supermarkets,Low
+M017,Fuel Merchant 17,Fuel & Transport,Low
+M018,Crypto Merchant 18,Crypto / Fintech Wallet,High
+M019,Hospitality Merchant 19,Hospitality & Hotels,Medium
+M020,Utilities Merchant 20,Utilities & Telecoms,Low

@@ -1,0 +1,801 @@
+customer_id,region,customer_segment,account_tenure_years
+C0001,Merseyside,Premier,9
+C0002,Greater Manchester,Standard,4
+C0003,Yorkshire,Premier,3
+C0004,Merseyside,Standard,1
+C0005,Greater Manchester,Standard,17
+C0006,Yorkshire,Standard,7
+C0007,West Midlands,Premier,18
+C0008,Lancashire,Standard,9
+C0009,Merseyside,Student,6
+C0010,Cheshire,Premier,9
+C0011,London,Standard,11
+C0012,Lancashire,Standard,4
+C0013,Cheshire,Standard,9
+C0014,West Midlands,Student,15
+C0015,Lancashire,Standard,3
+C0016,London,Standard,12
+C0017,West Midlands,Standard,3
+C0018,Greater Manchester,Standard,10
+C0019,London,Vulnerable,8
+C0020,Lancashire,Student,9
+C0021,London,Standard,12
+C0022,Cheshire,Standard,7
+C0023,West Midlands,Premier,3
+C0024,Greater Manchester,Standard,18
+C0025,Greater Manchester,Premier,15
+C0026,West Midlands,Standard,18
+C0027,Cheshire,Standard,2
+C0028,Merseyside,Standard,11
+C0029,Merseyside,Standard,7
+C0030,Yorkshire,Vulnerable,11
+C0031,Lancashire,Standard,13
+C0032,West Midlands,Student,15
+C0033,Greater Manchester,Standard,8
+C0034,Yorkshire,Premier,9
+C0035,Lancashire,Premier,13
+C0036,Greater Manchester,Standard,17
+C0037,London,Standard,2
+C0038,Greater Manchester,Student,6
+C0039,Lancashire,Student,3
+C0040,Yorkshire,Standard,15
+C0041,Yorkshire,Standard,1
+C0042,Merseyside,Premier,18
+C0043,London,Premier,11
+C0044,Lancashire,Standard,6
+C0045,West Midlands,Standard,9
+C0046,London,Vulnerable,6
+C0047,Merseyside,Standard,10
+C0048,Yorkshire,Student,7
+C0049,London,Standard,6
+C0050,London,Standard,17
+C0051,Yorkshire,Vulnerable,11
+C0052,Merseyside,Standard,12
+C0053,London,Student,10
+C0054,Greater Manchester,Standard,3
+C0055,Lancashire,Standard,3
+C0056,Yorkshire,Vulnerable,5
+C0057,Lancashire,Standard,18
+C0058,Yorkshire,Standard,14
+C0059,Yorkshire,Vulnerable,7
+C0060,Lancashire,Premier,12
+C0061,Yorkshire,Standard,15
+C0062,Greater Manchester,Standard,3
+C0063,Yorkshire,Standard,18
+C0064,Greater Manchester,Standard,1
+C0065,West Midlands,Standard,2
+C0066,Merseyside,Standard,11
+C0067,Greater Manchester,Standard,9
+C0068,Greater Manchester,Premier,18
+C0069,Yorkshire,Standard,16
+C0070,Lancashire,Standard,14
+C0071,Merseyside,Standard,14
+C0072,Lancashire,Standard,15
+C0073,Merseyside,Student,4
+C0074,West Midlands,Standard,11
+C0075,Merseyside,Student,8
+C0076,Yorkshire,Standard,15
+C0077,Greater Manchester,Standard,9
+C0078,London,Standard,3
+C0079,London,Standard,18
+C0080,West Midlands,Standard,18
+C0081,Merseyside,Student,8
+C0082,Lancashire,Standard,16
+C0083,Lancashire,Standard,2
+C0084,Merseyside,Standard,13
+C0085,London,Standard,15
+C0086,West Midlands,Standard,18
+C0087,Lancashire,Premier,5
+C0088,Greater Manchester,Standard,2
+C0089,Yorkshire,Standard,2
+C0090,Merseyside,Premier,2
+C0091,Yorkshire,Standard,17
+C0092,Yorkshire,Standard,3
+C0093,Merseyside,Student,3
+C0094,Greater Manchester,Premier,13
+C0095,Yorkshire,Standard,8
+C0096,Merseyside,Standard,3
+C0097,Yorkshire,Standard,17
+C0098,Cheshire,Standard,7
+C0099,Cheshire,Premier,8
+C0100,Greater Manchester,Standard,10
+C0101,London,Standard,3
+C0102,Yorkshire,Standard,4
+C0103,Greater Manchester,Standard,17
+C0104,Cheshire,Standard,3
+C0105,Cheshire,Student,10
+C0106,London,Standard,18
+C0107,Yorkshire,Premier,17
+C0108,London,Standard,18
+C0109,West Midlands,Standard,4
+C0110,Greater Manchester,Vulnerable,9
+C0111,Merseyside,Standard,18
+C0112,Cheshire,Standard,7
+C0113,Greater Manchester,Premier,9
+C0114,Cheshire,Standard,2
+C0115,Lancashire,Standard,9
+C0116,Cheshire,Standard,5
+C0117,Cheshire,Premier,6
+C0118,Yorkshire,Premier,14
+C0119,Merseyside,Standard,3
+C0120,West Midlands,Vulnerable,5
+C0121,London,Standard,12
+C0122,Greater Manchester,Standard,14
+C0123,Cheshire,Standard,12
+C0124,London,Student,2
+C0125,Greater Manchester,Student,8
+C0126,Cheshire,Premier,18
+C0127,Lancashire,Student,5
+C0128,Greater Manchester,Vulnerable,6
+C0129,London,Vulnerable,6
+C0130,Merseyside,Student,6
+C0131,Cheshire,Premier,14
+C0132,London,Student,8
+C0133,London,Standard,4
+C0134,Merseyside,Standard,16
+C0135,London,Standard,15
+C0136,London,Standard,8
+C0137,West Midlands,Standard,7
+C0138,Cheshire,Standard,3
+C0139,Cheshire,Vulnerable,12
+C0140,Lancashire,Premier,18
+C0141,Merseyside,Standard,4
+C0142,Cheshire,Student,6
+C0143,Cheshire,Standard,2
+C0144,Lancashire,Standard,12
+C0145,Cheshire,Premier,14
+C0146,Yorkshire,Standard,4
+C0147,Yorkshire,Standard,7
+C0148,West Midlands,Standard,14
+C0149,London,Standard,18
+C0150,West Midlands,Premier,7
+C0151,Merseyside,Standard,11
+C0152,West Midlands,Premier,4
+C0153,Cheshire,Premier,17
+C0154,Lancashire,Standard,11
+C0155,Cheshire,Standard,18
+C0156,Lancashire,Standard,13
+C0157,Greater Manchester,Premier,10
+C0158,London,Standard,1
+C0159,Greater Manchester,Standard,14
+C0160,Yorkshire,Student,11
+C0161,Lancashire,Standard,7
+C0162,London,Standard,6
+C0163,Cheshire,Premier,17
+C0164,Yorkshire,Premier,11
+C0165,London,Standard,8
+C0166,Greater Manchester,Premier,7
+C0167,Merseyside,Standard,8
+C0168,Yorkshire,Vulnerable,3
+C0169,West Midlands,Standard,7
+C0170,Lancashire,Premier,16
+C0171,Greater Manchester,Standard,1
+C0172,London,Student,4
+C0173,Greater Manchester,Premier,6
+C0174,West Midlands,Student,17
+C0175,Yorkshire,Standard,8
+C0176,Merseyside,Vulnerable,15
+C0177,Lancashire,Standard,17
+C0178,Yorkshire,Vulnerable,11
+C0179,Lancashire,Vulnerable,17
+C0180,Yorkshire,Standard,15
+C0181,West Midlands,Student,16
+C0182,London,Standard,8
+C0183,Cheshire,Student,17
+C0184,Greater Manchester,Standard,9
+C0185,West Midlands,Standard,10
+C0186,Cheshire,Standard,11
+C0187,Merseyside,Student,5
+C0188,Lancashire,Standard,5
+C0189,Merseyside,Premier,14
+C0190,Yorkshire,Standard,15
+C0191,Greater Manchester,Standard,14
+C0192,London,Standard,1
+C0193,London,Student,13
+C0194,Cheshire,Standard,10
+C0195,London,Premier,14
+C0196,West Midlands,Standard,18
+C0197,Greater Manchester,Student,16
+C0198,Lancashire,Standard,16
+C0199,Cheshire,Standard,13
+C0200,London,Premier,15
+C0201,Yorkshire,Vulnerable,18
+C0202,Lancashire,Standard,1
+C0203,Lancashire,Standard,5
+C0204,Greater Manchester,Student,2
+C0205,Cheshire,Standard,7
+C0206,Cheshire,Standard,13
+C0207,London,Standard,14
+C0208,Merseyside,Standard,16
+C0209,Yorkshire,Standard,2
+C0210,Cheshire,Vulnerable,8
+C0211,London,Premier,2
+C0212,Greater Manchester,Premier,7
+C0213,Yorkshire,Student,5
+C0214,Lancashire,Standard,4
+C0215,Greater Manchester,Standard,15
+C0216,London,Premier,12
+C0217,Yorkshire,Standard,4
+C0218,Greater Manchester,Premier,10
+C0219,Merseyside,Standard,10
+C0220,Lancashire,Standard,13
+C0221,Greater Manchester,Vulnerable,3
+C0222,London,Standard,8
+C0223,London,Standard,10
+C0224,Yorkshire,Student,4
+C0225,Yorkshire,Student,2
+C0226,Lancashire,Standard,12
+C0227,West Midlands,Standard,11
+C0228,Lancashire,Standard,16
+C0229,Cheshire,Standard,15
+C0230,Lancashire,Premier,6
+C0231,West Midlands,Premier,9
+C0232,Yorkshire,Standard,16
+C0233,London,Standard,9
+C0234,Greater Manchester,Standard,3
+C0235,Lancashire,Standard,8
+C0236,Yorkshire,Premier,13
+C0237,Lancashire,Standard,11
+C0238,Greater Manchester,Standard,12
+C0239,Cheshire,Student,9
+C0240,West Midlands,Student,9
+C0241,Yorkshire,Standard,7
+C0242,West Midlands,Standard,14
+C0243,London,Standard,8
+C0244,West Midlands,Premier,16
+C0245,Merseyside,Standard,3
+C0246,Lancashire,Standard,8
+C0247,Yorkshire,Standard,12
+C0248,Yorkshire,Standard,12
+C0249,West Midlands,Standard,18
+C0250,West Midlands,Standard,15
+C0251,Cheshire,Standard,8
+C0252,Greater Manchester,Standard,11
+C0253,Yorkshire,Standard,6
+C0254,West Midlands,Standard,16
+C0255,Yorkshire,Standard,17
+C0256,Merseyside,Standard,7
+C0257,Cheshire,Standard,6
+C0258,West Midlands,Standard,18
+C0259,Merseyside,Standard,2
+C0260,West Midlands,Standard,5
+C0261,London,Premier,16
+C0262,Merseyside,Standard,10
+C0263,Lancashire,Standard,11
+C0264,Merseyside,Standard,9
+C0265,Lancashire,Vulnerable,4
+C0266,Lancashire,Student,16
+C0267,West Midlands,Standard,2
+C0268,London,Standard,10
+C0269,Greater Manchester,Standard,4
+C0270,Lancashire,Standard,8
+C0271,Lancashire,Premier,15
+C0272,Cheshire,Vulnerable,14
+C0273,Yorkshire,Standard,2
+C0274,West Midlands,Standard,4
+C0275,Greater Manchester,Vulnerable,7
+C0276,Merseyside,Standard,6
+C0277,Yorkshire,Standard,3
+C0278,Lancashire,Standard,15
+C0279,Lancashire,Premier,10
+C0280,Cheshire,Standard,10
+C0281,Lancashire,Premier,3
+C0282,Cheshire,Premier,7
+C0283,Yorkshire,Standard,8
+C0284,Cheshire,Premier,5
+C0285,Greater Manchester,Standard,10
+C0286,London,Standard,10
+C0287,Lancashire,Standard,10
+C0288,Cheshire,Premier,17
+C0289,Lancashire,Standard,3
+C0290,Lancashire,Standard,11
+C0291,Merseyside,Standard,3
+C0292,West Midlands,Standard,1
+C0293,West Midlands,Vulnerable,9
+C0294,London,Standard,6
+C0295,West Midlands,Standard,15
+C0296,Greater Manchester,Vulnerable,14
+C0297,Lancashire,Premier,3
+C0298,Lancashire,Standard,11
+C0299,Merseyside,Standard,6
+C0300,West Midlands,Standard,16
+C0301,Lancashire,Standard,18
+C0302,Merseyside,Standard,11
+C0303,Merseyside,Standard,13
+C0304,London,Student,1
+C0305,Yorkshire,Premier,15
+C0306,Greater Manchester,Standard,17
+C0307,London,Standard,16
+C0308,London,Premier,2
+C0309,Yorkshire,Standard,5
+C0310,Lancashire,Vulnerable,16
+C0311,West Midlands,Standard,8
+C0312,Cheshire,Premier,18
+C0313,Lancashire,Standard,3
+C0314,London,Standard,4
+C0315,Merseyside,Standard,5
+C0316,West Midlands,Standard,10
+C0317,Cheshire,Standard,14
+C0318,Lancashire,Student,8
+C0319,Greater Manchester,Standard,13
+C0320,Yorkshire,Standard,17
+C0321,Greater Manchester,Premier,3
+C0322,London,Standard,14
+C0323,London,Standard,17
+C0324,Merseyside,Standard,10
+C0325,London,Premier,16
+C0326,Lancashire,Student,18
+C0327,Cheshire,Standard,18
+C0328,Lancashire,Premier,15
+C0329,London,Vulnerable,7
+C0330,Greater Manchester,Vulnerable,13
+C0331,London,Standard,14
+C0332,West Midlands,Standard,16
+C0333,London,Premier,13
+C0334,West Midlands,Standard,5
+C0335,Merseyside,Standard,5
+C0336,Yorkshire,Standard,11
+C0337,London,Student,15
+C0338,Lancashire,Standard,1
+C0339,Lancashire,Premier,5
+C0340,London,Standard,9
+C0341,West Midlands,Standard,13
+C0342,London,Premier,11
+C0343,London,Student,18
+C0344,Cheshire,Standard,16
+C0345,Merseyside,Student,3
+C0346,West Midlands,Standard,10
+C0347,West Midlands,Vulnerable,3
+C0348,Merseyside,Standard,4
+C0349,West Midlands,Standard,10
+C0350,Merseyside,Vulnerable,11
+C0351,Cheshire,Student,12
+C0352,Greater Manchester,Standard,8
+C0353,Yorkshire,Standard,6
+C0354,Merseyside,Standard,13
+C0355,Greater Manchester,Standard,16
+C0356,Greater Manchester,Vulnerable,8
+C0357,Cheshire,Standard,15
+C0358,Merseyside,Standard,15
+C0359,West Midlands,Vulnerable,18
+C0360,Lancashire,Standard,12
+C0361,Cheshire,Vulnerable,14
+C0362,Lancashire,Premier,10
+C0363,Lancashire,Standard,16
+C0364,Lancashire,Standard,12
+C0365,West Midlands,Standard,10
+C0366,London,Standard,13
+C0367,Yorkshire,Standard,2
+C0368,West Midlands,Vulnerable,16
+C0369,Cheshire,Student,8
+C0370,Cheshire,Standard,8
+C0371,Yorkshire,Premier,9
+C0372,West Midlands,Premier,5
+C0373,West Midlands,Premier,2
+C0374,Lancashire,Standard,2
+C0375,West Midlands,Standard,5
+C0376,Cheshire,Standard,11
+C0377,Greater Manchester,Premier,7
+C0378,Yorkshire,Standard,12
+C0379,Cheshire,Standard,6
+C0380,London,Standard,16
+C0381,Cheshire,Vulnerable,11
+C0382,Lancashire,Student,3
+C0383,Greater Manchester,Standard,13
+C0384,London,Vulnerable,18
+C0385,London,Standard,13
+C0386,Yorkshire,Standard,4
+C0387,West Midlands,Standard,9
+C0388,London,Standard,12
+C0389,Greater Manchester,Standard,16
+C0390,Yorkshire,Standard,11
+C0391,Greater Manchester,Vulnerable,3
+C0392,Lancashire,Premier,10
+C0393,Merseyside,Premier,5
+C0394,Merseyside,Standard,10
+C0395,Merseyside,Vulnerable,4
+C0396,Yorkshire,Standard,5
+C0397,Cheshire,Standard,18
+C0398,West Midlands,Standard,5
+C0399,West Midlands,Student,4
+C0400,Yorkshire,Student,14
+C0401,Cheshire,Vulnerable,2
+C0402,Greater Manchester,Premier,15
+C0403,Greater Manchester,Standard,12
+C0404,West Midlands,Standard,12
+C0405,West Midlands,Standard,12
+C0406,Cheshire,Standard,7
+C0407,London,Vulnerable,15
+C0408,Greater Manchester,Standard,1
+C0409,Cheshire,Standard,8
+C0410,London,Vulnerable,7
+C0411,London,Standard,18
+C0412,Greater Manchester,Standard,8
+C0413,Greater Manchester,Standard,1
+C0414,Greater Manchester,Standard,5
+C0415,London,Standard,6
+C0416,London,Standard,1
+C0417,Cheshire,Standard,8
+C0418,Merseyside,Standard,6
+C0419,Greater Manchester,Standard,14
+C0420,West Midlands,Standard,3
+C0421,London,Standard,12
+C0422,Merseyside,Standard,15
+C0423,Yorkshire,Standard,2
+C0424,London,Premier,17
+C0425,West Midlands,Standard,1
+C0426,Lancashire,Standard,13
+C0427,Merseyside,Standard,16
+C0428,Lancashire,Premier,3
+C0429,Cheshire,Student,5
+C0430,Cheshire,Standard,18
+C0431,Lancashire,Premier,17
+C0432,Yorkshire,Standard,14
+C0433,West Midlands,Standard,4
+C0434,West Midlands,Student,18
+C0435,Greater Manchester,Premier,14
+C0436,Greater Manchester,Standard,14
+C0437,Lancashire,Standard,13
+C0438,Merseyside,Standard,11
+C0439,West Midlands,Standard,9
+C0440,Greater Manchester,Standard,16
+C0441,London,Standard,3
+C0442,Merseyside,Standard,12
+C0443,Yorkshire,Student,2
+C0444,Yorkshire,Standard,18
+C0445,Merseyside,Standard,14
+C0446,West Midlands,Standard,14
+C0447,West Midlands,Student,2
+C0448,Yorkshire,Vulnerable,10
+C0449,Yorkshire,Standard,17
+C0450,West Midlands,Standard,16
+C0451,Merseyside,Standard,12
+C0452,Cheshire,Student,4
+C0453,Yorkshire,Premier,8
+C0454,London,Student,18
+C0455,London,Vulnerable,18
+C0456,West Midlands,Standard,9
+C0457,Cheshire,Standard,10
+C0458,Cheshire,Vulnerable,1
+C0459,Greater Manchester,Standard,13
+C0460,West Midlands,Standard,1
+C0461,Yorkshire,Standard,7
+C0462,Lancashire,Standard,11
+C0463,Cheshire,Standard,11
+C0464,Yorkshire,Premier,3
+C0465,Greater Manchester,Student,6
+C0466,Merseyside,Premier,3
+C0467,West Midlands,Standard,14
+C0468,Lancashire,Standard,14
+C0469,London,Standard,17
+C0470,Lancashire,Standard,4
+C0471,West Midlands,Standard,16
+C0472,Cheshire,Standard,2
+C0473,Yorkshire,Standard,2
+C0474,Cheshire,Standard,7
+C0475,London,Premier,9
+C0476,Merseyside,Standard,1
+C0477,Lancashire,Standard,6
+C0478,Yorkshire,Standard,8
+C0479,London,Standard,12
+C0480,London,Standard,2
+C0481,Lancashire,Standard,3
+C0482,Yorkshire,Student,14
+C0483,West Midlands,Standard,14
+C0484,Lancashire,Standard,1
+C0485,Greater Manchester,Vulnerable,15
+C0486,Cheshire,Student,3
+C0487,Merseyside,Standard,8
+C0488,Lancashire,Standard,17
+C0489,London,Standard,10
+C0490,Greater Manchester,Premier,11
+C0491,Merseyside,Premier,17
+C0492,Yorkshire,Premier,17
+C0493,London,Standard,12
+C0494,London,Standard,5
+C0495,Greater Manchester,Standard,9
+C0496,Yorkshire,Standard,5
+C0497,West Midlands,Premier,3
+C0498,London,Standard,16
+C0499,Yorkshire,Standard,15
+C0500,Yorkshire,Premier,11
+C0501,West Midlands,Student,11
+C0502,Merseyside,Standard,16
+C0503,Cheshire,Standard,9
+C0504,Cheshire,Standard,17
+C0505,Lancashire,Standard,15
+C0506,Cheshire,Standard,10
+C0507,London,Standard,3
+C0508,Yorkshire,Standard,13
+C0509,Yorkshire,Standard,2
+C0510,London,Standard,7
+C0511,Lancashire,Standard,17
+C0512,Merseyside,Standard,15
+C0513,London,Standard,11
+C0514,Merseyside,Vulnerable,17
+C0515,Merseyside,Premier,8
+C0516,Lancashire,Premier,17
+C0517,Greater Manchester,Standard,12
+C0518,Cheshire,Standard,13
+C0519,Cheshire,Standard,2
+C0520,West Midlands,Student,11
+C0521,Merseyside,Standard,18
+C0522,Cheshire,Premier,9
+C0523,West Midlands,Premier,5
+C0524,Yorkshire,Standard,5
+C0525,Cheshire,Vulnerable,13
+C0526,West Midlands,Standard,3
+C0527,Lancashire,Standard,11
+C0528,West Midlands,Student,17
+C0529,West Midlands,Standard,14
+C0530,Merseyside,Standard,12
+C0531,Greater Manchester,Standard,11
+C0532,Lancashire,Vulnerable,7
+C0533,Greater Manchester,Standard,5
+C0534,London,Standard,4
+C0535,Yorkshire,Standard,17
+C0536,Cheshire,Standard,5
+C0537,Greater Manchester,Standard,6
+C0538,West Midlands,Standard,6
+C0539,Merseyside,Premier,14
+C0540,West Midlands,Standard,8
+C0541,Yorkshire,Vulnerable,10
+C0542,London,Premier,15
+C0543,Greater Manchester,Standard,10
+C0544,London,Vulnerable,16
+C0545,Greater Manchester,Vulnerable,12
+C0546,Yorkshire,Premier,15
+C0547,Cheshire,Standard,13
+C0548,Lancashire,Standard,6
+C0549,London,Student,5
+C0550,Merseyside,Student,16
+C0551,Yorkshire,Student,4
+C0552,Yorkshire,Premier,4
+C0553,London,Standard,6
+C0554,Yorkshire,Standard,5
+C0555,Merseyside,Student,8
+C0556,Cheshire,Student,1
+C0557,Lancashire,Standard,17
+C0558,Lancashire,Standard,3
+C0559,Merseyside,Standard,11
+C0560,London,Vulnerable,11
+C0561,Greater Manchester,Student,2
+C0562,London,Standard,16
+C0563,Greater Manchester,Premier,16
+C0564,Merseyside,Standard,3
+C0565,Greater Manchester,Standard,5
+C0566,West Midlands,Standard,17
+C0567,London,Standard,10
+C0568,Merseyside,Standard,2
+C0569,West Midlands,Standard,15
+C0570,London,Standard,16
+C0571,Merseyside,Standard,17
+C0572,West Midlands,Standard,5
+C0573,Merseyside,Standard,12
+C0574,Lancashire,Standard,6
+C0575,Merseyside,Premier,17
+C0576,Merseyside,Vulnerable,17
+C0577,London,Standard,17
+C0578,Lancashire,Standard,16
+C0579,Lancashire,Standard,12
+C0580,Merseyside,Standard,12
+C0581,Cheshire,Student,8
+C0582,West Midlands,Premier,4
+C0583,West Midlands,Premier,11
+C0584,Cheshire,Standard,18
+C0585,West Midlands,Standard,6
+C0586,West Midlands,Student,15
+C0587,Lancashire,Vulnerable,6
+C0588,Merseyside,Student,15
+C0589,Greater Manchester,Standard,2
+C0590,Merseyside,Student,11
+C0591,Yorkshire,Vulnerable,13
+C0592,Yorkshire,Vulnerable,16
+C0593,London,Standard,7
+C0594,London,Standard,2
+C0595,Cheshire,Student,9
+C0596,Cheshire,Standard,14
+C0597,West Midlands,Student,15
+C0598,Lancashire,Student,11
+C0599,Lancashire,Vulnerable,16
+C0600,London,Standard,17
+C0601,Merseyside,Standard,14
+C0602,Yorkshire,Standard,6
+C0603,Cheshire,Standard,4
+C0604,West Midlands,Standard,10
+C0605,Yorkshire,Standard,14
+C0606,Lancashire,Standard,12
+C0607,West Midlands,Standard,12
+C0608,Lancashire,Standard,9
+C0609,London,Premier,2
+C0610,West Midlands,Standard,13
+C0611,London,Standard,6
+C0612,Greater Manchester,Vulnerable,15
+C0613,Merseyside,Standard,8
+C0614,Cheshire,Premier,12
+C0615,Yorkshire,Standard,2
+C0616,West Midlands,Standard,15
+C0617,Cheshire,Vulnerable,15
+C0618,Yorkshire,Premier,5
+C0619,Lancashire,Standard,11
+C0620,Greater Manchester,Premier,4
+C0621,Greater Manchester,Standard,16
+C0622,Yorkshire,Standard,4
+C0623,Cheshire,Standard,15
+C0624,Yorkshire,Standard,10
+C0625,Lancashire,Premier,7
+C0626,London,Standard,3
+C0627,West Midlands,Standard,15
+C0628,London,Vulnerable,11
+C0629,West Midlands,Premier,3
+C0630,Cheshire,Standard,10
+C0631,West Midlands,Student,6
+C0632,Yorkshire,Student,8
+C0633,Greater Manchester,Standard,5
+C0634,Lancashire,Standard,1
+C0635,Yorkshire,Standard,12
+C0636,Yorkshire,Standard,5
+C0637,Merseyside,Standard,3
+C0638,West Midlands,Standard,16
+C0639,London,Standard,14
+C0640,Merseyside,Student,5
+C0641,West Midlands,Vulnerable,3
+C0642,West Midlands,Standard,17
+C0643,London,Standard,18
+C0644,Greater Manchester,Premier,5
+C0645,London,Standard,2
+C0646,Yorkshire,Student,5
+C0647,Greater Manchester,Standard,11
+C0648,Greater Manchester,Vulnerable,12
+C0649,Yorkshire,Vulnerable,10
+C0650,Cheshire,Student,7
+C0651,Yorkshire,Premier,9
+C0652,Cheshire,Standard,18
+C0653,West Midlands,Standard,6
+C0654,Yorkshire,Standard,5
+C0655,Yorkshire,Standard,11
+C0656,Yorkshire,Student,2
+C0657,Merseyside,Student,3
+C0658,West Midlands,Standard,9
+C0659,London,Premier,14
+C0660,Merseyside,Standard,16
+C0661,Yorkshire,Student,10
+C0662,Cheshire,Premier,16
+C0663,London,Standard,13
+C0664,Merseyside,Standard,2
+C0665,Lancashire,Standard,16
+C0666,Cheshire,Standard,5
+C0667,West Midlands,Standard,11
+C0668,London,Premier,12
+C0669,Greater Manchester,Vulnerable,12
+C0670,Merseyside,Standard,11
+C0671,Merseyside,Standard,9
+C0672,Greater Manchester,Standard,4
+C0673,Lancashire,Standard,14
+C0674,London,Standard,6
+C0675,Yorkshire,Student,11
+C0676,Greater Manchester,Standard,16
+C0677,Lancashire,Vulnerable,16
+C0678,Lancashire,Student,1
+C0679,Lancashire,Standard,17
+C0680,Greater Manchester,Standard,7
+C0681,Merseyside,Standard,2
+C0682,Yorkshire,Standard,16
+C0683,Merseyside,Standard,4
+C0684,Cheshire,Standard,12
+C0685,Cheshire,Premier,2
+C0686,Yorkshire,Standard,18
+C0687,Yorkshire,Standard,10
+C0688,Yorkshire,Standard,15
+C0689,Cheshire,Premier,4
+C0690,Merseyside,Standard,13
+C0691,Cheshire,Standard,18
+C0692,London,Vulnerable,5
+C0693,Yorkshire,Standard,13
+C0694,Merseyside,Standard,2
+C0695,Cheshire,Standard,16
+C0696,Greater Manchester,Standard,17
+C0697,Yorkshire,Standard,11
+C0698,Yorkshire,Standard,10
+C0699,Yorkshire,Standard,17
+C0700,West Midlands,Standard,10
+C0701,Merseyside,Standard,12
+C0702,Merseyside,Standard,14
+C0703,London,Standard,1
+C0704,Cheshire,Standard,8
+C0705,Yorkshire,Premier,16
+C0706,West Midlands,Standard,13
+C0707,West Midlands,Standard,8
+C0708,West Midlands,Standard,4
+C0709,Lancashire,Standard,11
+C0710,Lancashire,Standard,7
+C0711,London,Standard,16
+C0712,West Midlands,Student,2
+C0713,Yorkshire,Premier,7
+C0714,West Midlands,Standard,16
+C0715,Cheshire,Standard,6
+C0716,Yorkshire,Standard,11
+C0717,West Midlands,Standard,9
+C0718,Greater Manchester,Standard,8
+C0719,Cheshire,Standard,8
+C0720,Cheshire,Vulnerable,10
+C0721,West Midlands,Premier,16
+C0722,Cheshire,Standard,18
+C0723,London,Vulnerable,9
+C0724,Yorkshire,Standard,18
+C0725,Lancashire,Standard,12
+C0726,London,Vulnerable,5
+C0727,Cheshire,Standard,3
+C0728,Lancashire,Standard,9
+C0729,Greater Manchester,Premier,7
+C0730,Cheshire,Student,18
+C0731,Greater Manchester,Premier,4
+C0732,Yorkshire,Standard,8
+C0733,West Midlands,Standard,17
+C0734,Greater Manchester,Standard,2
+C0735,Cheshire,Standard,16
+C0736,London,Standard,5
+C0737,Yorkshire,Standard,6
+C0738,Lancashire,Standard,16
+C0739,London,Premier,10
+C0740,West Midlands,Standard,2
+C0741,Merseyside,Vulnerable,8
+C0742,West Midlands,Standard,2
+C0743,Greater Manchester,Vulnerable,14
+C0744,Greater Manchester,Student,2
+C0745,Lancashire,Vulnerable,16
+C0746,West Midlands,Standard,10
+C0747,Merseyside,Student,10
+C0748,Merseyside,Standard,11
+C0749,West Midlands,Standard,18
+C0750,Greater Manchester,Standard,17
+C0751,Greater Manchester,Standard,4
+C0752,West Midlands,Standard,15
+C0753,West Midlands,Premier,6
+C0754,Cheshire,Standard,10
+C0755,London,Standard,7
+C0756,London,Standard,13
+C0757,Yorkshire,Student,11
+C0758,West Midlands,Standard,4
+C0759,Greater Manchester,Standard,16
+C0760,Greater Manchester,Standard,1
+C0761,Greater Manchester,Standard,15
+C0762,Cheshire,Premier,10
+C0763,Yorkshire,Standard,1
+C0764,Cheshire,Standard,8
+C0765,Merseyside,Standard,15
+C0766,Lancashire,Standard,17
+C0767,West Midlands,Vulnerable,10
+C0768,West Midlands,Premier,10
+C0769,Greater Manchester,Standard,8
+C0770,Lancashire,Vulnerable,5
+C0771,Yorkshire,Standard,12
+C0772,Yorkshire,Standard,16
+C0773,London,Premier,7
+C0774,West Midlands,Premier,3
+C0775,Yorkshire,Standard,12
+C0776,Yorkshire,Standard,4
+C0777,Yorkshire,Standard,17
+C0778,Yorkshire,Standard,5
+C0779,London,Standard,17
+C0780,West Midlands,Standard,7
+C0781,Lancashire,Premier,3
+C0782,Lancashire,Student,2
+C0783,Yorkshire,Standard,14
+C0784,Merseyside,Standard,18
+C0785,London,Standard,10
+C0786,Lancashire,Premier,9
+C0787,West Midlands,Student,7
+C0788,Merseyside,Standard,14
+C0789,Merseyside,Standard,18
+C0790,Merseyside,Vulnerable,16
+C0791,Lancashire,Standard,6
+C0792,London,Premier,14
+C0793,Lancashire,Standard,15
+C0794,Lancashire,Student,13
+C0795,West Midlands,Standard,18
+C0796,London,Standard,12
+C0797,Yorkshire,Standard,13
+C0798,West Midlands,Standard,8
+C0799,London,Student,1
+C0800,Lancashire,Vulnerable,18
